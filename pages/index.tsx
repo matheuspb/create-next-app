@@ -1,7 +1,8 @@
 import React from 'react'
+import { Typography } from '@material-ui/core'
 
 const Home: React.FunctionComponent = () => {
-  return <div>Hello World!</div>
+  return <Typography>Hello World!</Typography>
 }
 
 export default Home
