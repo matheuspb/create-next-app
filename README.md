@@ -1,6 +1,6 @@
 # create-next-app
 
-Bootstrap a [Next.js](nextjs.org) project with configured:
+Bootstrap a [Next.js](https://nextjs.org) project with configured:
 
 * Typescript
 * ESLint
